@@ -128,6 +128,12 @@ main > section {
     padding: 100px 2rem;
 }
 
+/* ----- OMAR ----- */
+
+.omar {
+    background: bisque;
+}
+
 /* ----- HERO ----- */
 .hero {
     background: thistle;
