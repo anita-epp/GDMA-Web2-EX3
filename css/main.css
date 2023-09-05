@@ -17,6 +17,9 @@
 6.0 - Header
 7.0 - Footer
 8.0 - Sections
+        - Main
+        - Hero
+        - Maddie
 
 /*--------------------------------------------------------------
     1.0 - Universal
@@ -131,4 +134,10 @@ main > section {
 /* ----- HERO ----- */
 .hero {
     background: thistle;
+}
+
+/* ----- Maddie ----- */
+
+.maddie {
+    background-color: lightblue;
 }
