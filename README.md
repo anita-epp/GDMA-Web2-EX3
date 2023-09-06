@@ -23,3 +23,4 @@ Exercise 3: GitHub Practice
 
 ### Class List
 - Instructor: Anita Epp
+- Student: ==Catherine Quinn==
