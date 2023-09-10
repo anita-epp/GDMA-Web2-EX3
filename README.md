@@ -3,7 +3,7 @@ Exercise 3: GitHub Practice
 
 ## Instructions
 1. Clone this repository locally
-2. Checkout a new branch; name the branch `ex3-github-practice`
+2. Checkout a new branch; name the branch `ex3-github-practice-xx` where "xx" is your initials
 3. Make the [requested changes](#requested-changes)
 4. Add and commit your changes
 5. Push (publish) your changes to the repository as a branch
