@@ -17,7 +17,7 @@ Exercise 3: GitHub Practice
    - Give it a class with your first name
    - Add a `div.wrapper` inside of your section
    - Add a heading (level 2) with your first name inside the `.wrapper`
-- [ ] In `main.css`:
+- [X] In `main.css`:
    - Add documentation for your new section
    - Give your section a background color
 
