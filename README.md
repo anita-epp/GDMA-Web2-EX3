@@ -23,6 +23,7 @@ Exercise 3: GitHub Practice
 
 ### Class List
 - Instructor: Anita Epp
+- Student: `Sarah Nguyen`
 - `Heather Sticka`
 - Student: `Omar Gonzalez`
 - Student: `Catherine Quinn`
