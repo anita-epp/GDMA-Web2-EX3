@@ -136,14 +136,17 @@ main > section {
     background: thistle;
 }
 
-/* ----- Maddie ----- */
+/*---- HOPE -----*/
+.hope {
+    background: pink;
+}
 
+/* ----- Maddie ----- */
 .maddie {
     background-color: lightblue;
 }
 
 /* ----- SISALEE ----- */
-
 .sisalee {
     background: aquamarine;
 }

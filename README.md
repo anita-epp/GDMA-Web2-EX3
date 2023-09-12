@@ -23,6 +23,7 @@ Exercise 3: GitHub Practice
 
 ### Class List
 - Instructor: Anita Epp
-- Student: ==<mark>Madeline Mace</mark>==
-- Student: ==Sisalee Nolan==
-- Student: ==Valerie Johnson==
+- `Hope Wise`
+- Student: `Madeline Mace`
+- Student: `Sisalee Nolan`
+- Student: `Valerie Johnson`
