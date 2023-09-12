@@ -17,6 +17,9 @@
 6.0 - Header
 7.0 - Footer
 8.0 - Sections
+        - Main
+        - Hero
+        - Maddie
 
 /*--------------------------------------------------------------
     1.0 - Universal
@@ -128,6 +131,12 @@ main > section {
     padding: 100px 2rem;
 }
 
+/* ----- OMAR ----- */
+
+.omar {
+    background: beige;
+}
+
 /* ----- HERO ----- */
 .hero {
     background: thistle;
@@ -136,4 +145,45 @@ main > section {
 /* ----- BROCK ----- */
 .brock {
     background: darkblue;
+
+/* ----- SARAH ----- */
+.sarah {
+    background: #E3CCF0;
+}
+
+/* ---Heather Section--- */
+
+.heather {
+    background: #466365;
+}
+
+/* ----- NAME SECTION ----- */
+
+.catherine {
+    background: #F2BBDA;
+}
+
+/* ----- ABBEY LOSEKE ------ */ 
+.abbey-loseke {
+    background:peachpuff;
+}
+
+/*---- HOPE -----*/
+.hope {
+    background: pink;
+}
+
+/* ----- Maddie ----- */
+.maddie {
+    background-color: lightblue;
+}
+
+/* ----- SISALEE ----- */
+.sisalee {
+    background: aquamarine;
+}
+
+/* ----- VALERIE ----- */
+.valerie {
+    background: hotpink;
 }
