@@ -136,6 +136,12 @@ main > section {
     background: thistle;
 }
 
+/* ----- NAME SECTION ----- */
+
+.catherine {
+    background: #F2BBDA;
+}
+
 /* ----- ABBEY LOSEKE ------ */ 
 .abbey-loseke {
     background:peachpuff;
