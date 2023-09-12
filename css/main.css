@@ -131,6 +131,12 @@ main > section {
     padding: 100px 2rem;
 }
 
+/* ----- OMAR ----- */
+
+.omar {
+    background: beige;
+}
+
 /* ----- HERO ----- */
 .hero {
     background: thistle;
