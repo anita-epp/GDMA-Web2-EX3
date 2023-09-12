@@ -3,7 +3,7 @@ Exercise 3: GitHub Practice
 
 ## Instructions
 1. Clone this repository locally
-2. Checkout a new branch; name the branch `ex3-github-practice`
+2. Checkout a new branch; name the branch `ex3-github-practice-xx` where "xx" is your initials
 3. Make the [requested changes](#requested-changes)
 4. Add and commit your changes
 5. Push (publish) your changes to the repository as a branch
@@ -14,13 +14,15 @@ Exercise 3: GitHub Practice
 - [x] Highlight your name.
 - [x] In `index.html`, change the website title.
 - [x] In `#main`, add a section after `section.hero`:
-   x - Give it a class with your first name
-   x - Add a `div.wrapper` inside of your section
-   x - Add a heading (level 2) with your first name inside the `.wrapper`
+   - Give it a class with your first name
+   - Add a `div.wrapper` inside of your section
+   - Add a heading (level 2) with your first name inside the `.wrapper`
 - [x] In `main.css`:
-   x - Add documentation for your new section
-   x - Give your section a background color
+   - Add documentation for your new section
+   - Give your section a background color
 
 ### Class List
 - Instructor: Anita Epp
 - Student: ==<mark>Madeline Mace</mark>==
+- Student: ==Sisalee Nolan==
+- Student: ==Valerie Johnson==
