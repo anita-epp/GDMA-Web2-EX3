@@ -23,6 +23,7 @@ Exercise 3: GitHub Practice
 
 ### Class List
 - Instructor: Anita Epp
+- `Abbey Loseke`
 - `Hope Wise`
 - Student: `Madeline Mace`
 - Student: `Sisalee Nolan`
