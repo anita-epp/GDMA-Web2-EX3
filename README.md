@@ -33,3 +33,4 @@ Exercise 3: GitHub Practice
 - Student: `Madeline Mace`
 - Student: `Sisalee Nolan`
 - Student: `Valerie Johnson`
+- Ally Anderson
