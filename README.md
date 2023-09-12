@@ -23,4 +23,5 @@ Exercise 3: GitHub Practice
 
 ### Class List
 - Instructor: Anita Epp
+- Student: ==Sisalee Nolan==
 - Student: ==Valerie Johnson==
