@@ -10,17 +10,25 @@ Exercise 3: GitHub Practice
 6. Open a pull request (PR), add anita-epp as a reviewer
 
 ## Requested Changes
-- [ ] Add your name to the class list in this README.
-- [ ] Highlight your name.
-- [ ] In `index.html`, change the website title.
-- [ ] In `#main`, add a section after `section.hero`:
+- [X] Add your name to the class list in this README.
+- [X] Highlight your name.
+- [X] In `index.html`, change the website title.
+- [X] In `#main`, add a section after `section.hero`:
    - Give it a class with your first name
    - Add a `div.wrapper` inside of your section
    - Add a heading (level 2) with your first name inside the `.wrapper`
-- [ ] In `main.css`:
+- [X] In `main.css`:
    - Add documentation for your new section
    - Give your section a background color
 
 ### Class List
 - Instructor: Anita Epp
-- Student: Sarah Nguyen
+- Student: `Sarah Nguyen`
+- `Heather Sticka`
+- Student: `Omar Gonzalez`
+- Student: `Catherine Quinn`
+- `Abbey Loseke`
+- `Hope Wise`
+- Student: `Madeline Mace`
+- Student: `Sisalee Nolan`
+- Student: `Valerie Johnson`
